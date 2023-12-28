@@ -13,8 +13,8 @@ To write a program to find the maximum of a list of numbers.
 i)	# To find the maximum of marks using the list method sort.
 ```Python
 Program to mark the maximum of marks using the list method sort
-Developed by: 
-RegisterNumber: 
+Developed by: ALAN ZION H
+RegisterNumber:212223240004 
 ```
 def max_marks(marks):
     marks.sort()
@@ -60,6 +60,11 @@ def max_marks(marks):
 
 ## Output:
 ![Screenshot 2023-12-28 163425](https://github.com/ALANZION/FindMaximum/assets/145743064/0ceac1b5-c38d-4734-924d-5c1836c79fc9)
+
+![Screenshot 2023-12-28 163644](https://github.com/ALANZION/FindMaximum/assets/145743064/d6e8ede4-e97b-4219-8edc-696b19d71af9)
+
+![Screenshot 2023-12-28 163813](https://github.com/ALANZION/FindMaximum/assets/145743064/83ec201a-64c8-4078-8dd2-bdb68217c5d8)
+
 
 
 
