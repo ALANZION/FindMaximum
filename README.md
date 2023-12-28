@@ -15,7 +15,7 @@ i)	# To find the maximum of marks using the list method sort.
 Program to mark the maximum of marks using the list method sort
 Developed by: 
 RegisterNumber: 
-
+```
 def max_marks(marks):
     marks.sort()
     large=marks[-1]
@@ -59,6 +59,9 @@ def max_marks(marks):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
+![Screenshot 2023-12-28 163425](https://github.com/ALANZION/FindMaximum/assets/145743064/0ceac1b5-c38d-4734-924d-5c1836c79fc9)
+
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
