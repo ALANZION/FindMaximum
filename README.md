@@ -59,7 +59,8 @@ def max_marks(marks):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![Screenshot 2023-12-28 163425](https://github.com/ALANZION/FindMaximum/assets/145743064/0ceac1b5-c38d-4734-924d-5c1836c79fc9)
+![Screenshot 2023-12-28 163941](https://github.com/ALANZION/FindMaximum/assets/145743064/41dd1c43-c036-4905-859a-db04ef66b939)
+
 
 ![Screenshot 2023-12-28 163644](https://github.com/ALANZION/FindMaximum/assets/145743064/d6e8ede4-e97b-4219-8edc-696b19d71af9)
 
